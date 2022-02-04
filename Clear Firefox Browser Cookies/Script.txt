@@ -1,0 +1,28 @@
+REM *******************************************
+REM Firefox Cookies and Site Data Clearer
+REM Author: BSense
+REM *******************************************
+DELAY 500
+GUI r
+DELAY 500
+STRING firefox
+DELAY 100
+ENTER
+DELAY 2000
+CTRL-SHIFT DEL
+DELAY 500
+e
+DELAY 300
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+SPACE
+TAB
+SPACE
+TAB
+SPACE
+DELAY 200
+CTRL w

@@ -1,6 +1,6 @@
 REM *******************************************
 REM Firefox Cookies and Site Data Clearer
-REM Author: BSense
+REM Author: willhuddleston
 REM *******************************************
 DELAY 500
 GUI r
